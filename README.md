@@ -1,6 +1,5 @@
 Classify-the-Farm-Ads-data-set
 ==============================
-This in a small demo to classify the Farm Ads data set
 Đây là một chương trình mình họa để phân lớp tập dữ liệu [Farm Ads](https://archive.ics.uci.edu/ml/datasets/Farm+Ads), nhằm dự đoán xem quảng cáo có hợp lệ hay không.
 
 Thông tin về dự án
@@ -27,8 +26,7 @@ Biên dịch và chạy chương trình
   3. Buid Classifer: Huấn luyện mô hình theo một trong 2 thuật toán SMO và Naive Bayes 
   4. Evaluation: Đánh giá mô hình phân lớp
   5. Tiến hành phân lớp một hay nhiều mẫu
-  ==> Lưu ý: nhãn "Status" sẽ cho biết trạng thái của các tác vụ, trong đó: processing cho biết tác vụ đang diễn ra
-	OK cho biết tác vụ đã hoàn thành, Error cho biết có lỗi xảy ra.
+  ==> Lưu ý: nhãn "Status" sẽ cho biết trạng thái của các tác vụ, trong đó: processing cho biết tác vụ đang diễn ra, OK cho biết tác vụ đã hoàn thành, Error cho biết có lỗi xảy ra.
 
 Các chức năng hỗ trợ
 --------------------
