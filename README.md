@@ -1,6 +1,6 @@
 Classify-the-Farm-Ads-data-set
 ==============================
-Đây là một chương trình mình họa để phân lớp tập dữ liệu [Farm Ads](https://archive.ics.uci.edu/ml/datasets/Farm+Ads), nhằm dự đoán xem quảng cáo có hợp lệ hay không.
+Đây là một chương trình mình họa để phân lớp tập dữ liệu [Farm Ads](https://archive.ics.uci.edu/ml/datasets/Farm+Ads), nhằm dự đoán xem một hay một tập dữ liệu quảng cáo có hợp lệ hay không.
 
 Thông tin về dự án
 ------------------
